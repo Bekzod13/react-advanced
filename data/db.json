@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "post 1",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium doloribus cupiditate, nemo dolor sit repudiandae. Minus non, fugiat amet, reprehenderit saepe facere a laborum repellat aliquam culpa, esse eligendi ab!"
+    },
+    {
+      "id": 2,
+      "title": "post 2",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium doloribus cupiditate, nemo dolor sit repudiandae. Minus non, fugiat amet, reprehenderi saepe facere a laborum repellat aliquam culpa, esse eligendi ab!"
+    },
+    {
+      "id": 3,
+      "title": "post 3",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium doloribus cupiditate, nemo dolor sit repudiandae. Minus non, fugiat amet, reprehenderit saepe facere a laborum repellat aliquam culpa, esse eligendi ab!"
+    },
+    {
+      "id": 4,
+      "title": "post 4",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium doloribus cupiditate, nemo dolor sit repudiandae. Minus non, fugiat amet, reprehenderit saepe facere a laborum repellat aliquam culpa, esse eligendi ab!"
+    },
+    {
+      "id": 5,
+      "title": "yangi post bu",
+      "datetime": "March 15, 2022 11:06:37 AM",
+      "body": "rossiya nima qilyapti\n\n\n\n\n\n\n"
+    },
+    {
+      "id": 6,
+      "title": "Muhammadjon",
+      "datetime": "March 15, 2022 12:52:40 PM",
+      "body": "men chotki bolaman o'zim\n"
+    }
+  ]
+}
